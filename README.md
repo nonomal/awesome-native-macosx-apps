@@ -4,6 +4,8 @@
 
 Discover high-quality macOS apps built with native technologies (Swift, SwiftUI, AppKit) that are fast, efficient, and respect your Mac's resources. This list focuses on apps that feel like they belong on macOS — no Electron bloat, just pure native performance.
 
+Maintained by [opensaas.directory](https://opensaas.directory), a curated directory of open-source SaaS products.
+
 ---
 
 Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
@@ -472,3 +474,7 @@ To the extent possible under law, the contributors have waived all copyright and
 **⭐ If you find this list useful, please star the repo to help others discover it!**
 
 **🔗 Share:** [Twitter](https://twitter.com/intent/tweet?text=Awesome%20Native%20macOS%20Apps%20%E2%80%93%20A%20curated%20list%20of%20beautiful%2C%20lightweight%20macOS%20applications&url=https://github.com/open-saas-directory/awesome-native-macosx-apps) | [Reddit](https://reddit.com/submit?url=https://github.com/open-saas-directory/awesome-native-macosx-apps&title=Awesome%20Native%20macOS%20Apps)
+
+---
+
+This list is brought to you by [opensaas.directory](https://opensaas.directory) — discover more open-source SaaS tools and products.
