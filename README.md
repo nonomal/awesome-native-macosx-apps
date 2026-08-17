@@ -4,11 +4,6 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 
 Maintained by [opensaas.directory](https://opensaas.directory), a curated directory of open-source SaaS products.
 
----
-
-Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
-
----
 
 ## 📬 Get Monthly Native App Picks in Your Inbox
 
@@ -25,6 +20,10 @@ Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered 
 📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
 
 _Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
+
+---
+
+Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
 
 ---
 
