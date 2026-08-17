@@ -454,6 +454,10 @@ Apps must meet ALL these criteria:
 - ❌ Apps with malware/suspicious behavior
 - ❌ Cross-platform apps with poor macOS integration
 
+### Get Your App Spotlighted on X
+
+Beyond adding your app to this list, you can send it to us on [X (@NativeMacApps)](https://x.com/NativeMacApps) for a chance at an individual spotlight post with a screenshot and writeup. [Follow the account](https://x.com/NativeMacApps) to catch new spotlights.
+
 ## Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=open-saas-directory/awesome-native-macosx-apps&type=Date)](https://star-history.dera.page/#open-saas-directory/awesome-native-macosx-apps&Date)

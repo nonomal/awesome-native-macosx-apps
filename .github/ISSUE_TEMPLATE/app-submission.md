@@ -48,4 +48,6 @@ Please confirm the app meets ALL these requirements:
 
 **Note:** Apps that don't meet the native requirement will not be added. When in doubt, check if the app uses Swift/AppKit or if it's just a web wrapper.
 
+**🐦 Want extra visibility?** Send your app to us on [X (@NativeMacApps)](https://x.com/NativeMacApps) for a chance at an individual spotlight post, separate from this listing. [Follow us](https://x.com/NativeMacApps) to catch it.
+
 **Thank you for contributing!** 🙏

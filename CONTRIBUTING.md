@@ -1,6 +1,7 @@
 # Contributing to Awesome Native macOS Apps
 
-First off, thank you for considering contributing to this list! It's people like you that make this resource valuable for the macOS community.
+First off, thank you for considering contributing to this list! It's people like you that make this resource valuable
+for the macOS community.
 
 ## Table of Contents
 
@@ -22,6 +23,10 @@ First off, thank you for considering contributing to this list! It's people like
 
 Found a typo or want to improve an app description? Feel free to submit a PR!
 
+### Get Your App Spotlighted on X
+
+Want more than a line in the list? Send your app to [@NativeMacApps](https://x.com/NativeMacApps) on X for a chance at its own spotlight post.
+
 ### Reporting Issues
 
 - Broken links
@@ -34,6 +39,7 @@ Found a typo or want to improve an app description? Feel free to submit a PR!
 ### What We're Looking For
 
 Apps that are:
+
 - ✅ **Native** - Built with Swift, SwiftUI, AppKit, or Objective-C
 - ✅ **Lightweight** - Resource-efficient and fast
 - ✅ **Well-designed** - Follow macOS Human Interface Guidelines
@@ -54,29 +60,29 @@ Apps that are:
 Before submitting an app, ensure it meets these criteria:
 
 1. **Native Technology**: Built with macOS-native frameworks
-   - Swift, SwiftUI, AppKit, Objective-C
-   - May use native web views (WebKit) for specific features
-   - Should feel native, not like a web page
+    - Swift, SwiftUI, AppKit, Objective-C
+    - May use native web views (WebKit) for specific features
+    - Should feel native, not like a web page
 
-2. **Performance**: 
-   - Lightweight (< 200MB typical)
-   - Low resource usage
-   - Fast startup and response times
+2. **Performance**:
+    - Lightweight (< 200MB typical)
+    - Low resource usage
+    - Fast startup and response times
 
 3. **Availability**:
-   - Downloadable and installable
-   - Works on currently supported macOS versions
-   - Has a stable release (not just alpha/beta)
+    - Downloadable and installable
+    - Works on currently supported macOS versions
+    - Has a stable release (not just alpha/beta)
 
 4. **Maintenance**:
-   - Updated within the last 2 years
-   - Active development or maintenance
-   - Responsive to critical bugs
+    - Updated within the last 2 years
+    - Active development or maintenance
+    - Responsive to critical bugs
 
 5. **Quality**:
-   - Stable and reliable
-   - Good user reviews/reputation
-   - Proper macOS integration
+    - Stable and reliable
+    - Good user reviews/reputation
+    - Proper macOS integration
 
 ## Formatting Guidelines
 
@@ -87,6 +93,7 @@ Before submitting an app, ensure it meets these criteria:
 ```
 
 **Examples:**
+
 ```markdown
 [Bear](https://bear.app/) - Beautiful, flexible writing app. `Freemium`
 [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
@@ -112,11 +119,13 @@ Before submitting an app, ensure it meets these criteria:
 - **Proper grammar** - Check spelling and punctuation
 
 **Good descriptions:**
+
 - ✅ "Control external monitor brightness like native displays."
 - ✅ "Native code editor for macOS."
 - ✅ "Advanced IMAP email client with keyboard control."
 
 **Bad descriptions:**
+
 - ❌ "The best app ever! 😍"
 - ❌ "Revolutionary groundbreaking amazing tool"
 - ❌ "You absolutely need this app"
@@ -153,6 +162,7 @@ git commit -m "Add [App Name] to [Category]"
 ```
 
 Use clear commit messages:
+
 - ✅ "Add Bear to Note-Taking & Writing"
 - ✅ "Update Things description"
 - ✅ "Fix broken link for IINA"
@@ -176,6 +186,7 @@ git push origin add-app-name
 ### PR Checklist
 
 Before submitting, ensure:
+
 - [ ] App is truly native (not Electron/web wrapper)
 - [ ] App is in the correct category
 - [ ] Alphabetically ordered within category
@@ -198,6 +209,7 @@ Typical review time: 1-7 days
 ## Adding New Categories
 
 Want to suggest a new category? Open an issue first to discuss:
+
 - Why it's needed
 - What apps would go in it
 - How it differs from existing categories
@@ -206,11 +218,13 @@ Want to suggest a new category? Open an issue first to discuss:
 
 - 💬 **Discussion**: Use [GitHub Discussions](../../discussions)
 - 🐛 **Issues**: Create an [issue](../../issues/new)
+- 🐦 **X**: [@NativeMacApps](https://x.com/NativeMacApps)
 - 📧 **Email**: (Add your contact email if you want)
 
 ## Recognition
 
 Contributors are recognized in:
+
 - GitHub's contributor graph
 - Release notes when applicable
 - Our gratitude! ⭐
@@ -220,8 +234,10 @@ Contributors are recognized in:
 - Be respectful and constructive
 - No spam or self-promotion
 - No offensive language
-- Follow GitHub's [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
+- Follow
+  GitHub's [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
 
 ## Thank You!
 
-Every contribution, no matter how small, helps make this list better for the macOS community. We appreciate your time and effort! 🙏
+Every contribution, no matter how small, helps make this list better for the macOS community. We appreciate your time
+and effort! 🙏
