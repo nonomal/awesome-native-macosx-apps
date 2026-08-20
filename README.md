@@ -21,9 +21,6 @@ Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered 
 
 _Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
 
----
-
-Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
 
 ---
 
@@ -477,6 +474,13 @@ To the extent possible under law, the contributors have waived all copyright and
 
 **🔗 Share:** [Twitter](https://twitter.com/intent/tweet?text=Awesome%20Native%20macOS%20Apps%20%E2%80%93%20A%20curated%20list%20of%20beautiful%2C%20lightweight%20macOS%20applications&url=https://github.com/open-saas-directory/awesome-native-macosx-apps) | [Reddit](https://reddit.com/submit?url=https://github.com/open-saas-directory/awesome-native-macosx-apps&title=Awesome%20Native%20macOS%20Apps)
 
+
+
 ---
+
+Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
+
+---
+
 
 This list is brought to you by [opensaas.directory](https://opensaas.directory) — discover more open-source SaaS tools and products.
