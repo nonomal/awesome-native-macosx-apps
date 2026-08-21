@@ -1,4 +1,4 @@
-#  Best macOS Apps (2026) — Fast, Lightweight, No Electron (2026) [![Follow on X](https://img.shields.io/badge/Follow%20%40NativeMacApps-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NativeMacApps)
+#  Best MacOS Apps (2026) — Fast, Lightweight, No Electron (2026) [![Follow on X](https://img.shields.io/badge/Follow%20%40NativeMacApps-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NativeMacApps)
 
 Discover high-quality macOS apps built with native technologies (Swift, SwiftUI, AppKit) that are fast, efficient, and respect your Mac's resources. This list focuses on apps that feel like they belong on macOS — no Electron bloat, just pure native performance.
 
